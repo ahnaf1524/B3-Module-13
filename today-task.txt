@@ -1,4 +1,0 @@
-Solve all problems :
-https://www.codechef.com/practice/bit-manipulation
-
-Geekforgeeks : https://www.geeksforgeeks.org/bitwise-algorithms-basic-practice-problems/
